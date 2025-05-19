@@ -1,4 +1,4 @@
-# MNEDP Splines
+# MNEDP
 # Métodos de Rayleigh-Ritz y Galerkin para Problemas de Sturm-Liouville
 [![Licencia](https://img.shields.io/badge/Licencia-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![MATLAB](https://img.shields.io/badge/MATLAB-R2024a-orange.svg)](https://www.mathworks.com/)
